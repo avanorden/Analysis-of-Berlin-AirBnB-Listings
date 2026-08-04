@@ -1,9 +1,18 @@
 use airbnb_berlin;
 
 -- output listing locations
-SELECT DISTINCT
+
+(SELECT 'id',
+    'descriptive_name',
+    'neighbourhood',
+    'neighbourhood_group',
+    'latitude',
+    'longitude',
+    'price')
+UNION ALL
+(SELECT DISTINCT
     id,
-    descriptive_name,
+    REPLACE(descriptive_name, '"', ''),
     neighbourhood,
     neighbourhood_group,
     latitude,
@@ -12,7 +21,7 @@ SELECT DISTINCT
 FROM
     listings
 WHERE
-    price IS NOT NULL
+    price IS NOT NULL)
 INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.4/Uploads/output_locations.csv'
 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
