@@ -10,3 +10,5 @@ WHERE
     price != 0.00
 GROUP BY neighbourhood , neighbourhood_group
 ORDER BY average_price DESC;
+
+

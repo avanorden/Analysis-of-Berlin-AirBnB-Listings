@@ -20,7 +20,7 @@ CREATE TABLE if NOT EXISTS listings(
     calculated_host_listings_count INT,
     availability_365 INT,
     number_of_reviews_ltm INT,
-    licence VARCHAR(500),
+    licence VARCHAR(500) DEFAULT 'None',
     FOREIGN KEY(neighbourhood_group, neighbourhood)
 		REFERENCES neighbourhoods(neighbourhood_group, neighbourhood),
 	FOREIGN KEY(host_id)

@@ -32,7 +32,9 @@ LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.4/Uploads/listings.csv' ig
 	FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 	LINES TERMINATED BY '\n'
 	IGNORE 1 LINES
-    (id, descriptive_name, host_id, host_name, neighbourhood_group, neighbourhood, latitude, longitude, room_type, @inp_price, minimum_nights, number_of_reviews, @inp_last_review, @inp_reviews_per_month, calculated_host_listings_count, availability_365, number_of_reviews_ltm, licence)
+    (id, descriptive_name, host_id, host_name, neighbourhood_group, neighbourhood, latitude, longitude, room_type, 
+    @inp_price, minimum_nights, number_of_reviews, @inp_last_review, @inp_reviews_per_month, calculated_host_listings_count, 
+    availability_365, number_of_reviews_ltm, licence)
     SET price = nullif(@inp_price, ''),
     last_review = nullif(@inp_last_review, ''),
     reviews_per_month = nullif(@inp_reviews_per_month, '');
@@ -40,8 +42,14 @@ LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.4/Uploads/listings.csv' ig
 INSERT IGNORE INTO listing_hosts(id, host_name) SELECT host_id, host_name FROM totaldata;
 
 
-INSERT IGNORE INTO listings(id, descriptive_name, host_id, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, availability_365, number_of_reviews_ltm, licence) 
-					 SELECT id, descriptive_name, host_id, neighbourhood_group, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, availability_365, number_of_reviews_ltm, licence 
+INSERT IGNORE INTO listings(id, descriptive_name, host_id, neighbourhood_group, neighbourhood, latitude, longitude, room_type, 
+							price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, 
+                            availability_365, number_of_reviews_ltm, licence) 
+					 SELECT id, descriptive_name, host_id, neighbourhood_group, neighbourhood, latitude, longitude, room_type, 
+							price, minimum_nights, number_of_reviews, last_review, reviews_per_month, calculated_host_listings_count, 
+                            availability_365, number_of_reviews_ltm, licence 
     FROM totaldata; 
     
 DROP table totaldata;
+
+SELECT licence from listings;

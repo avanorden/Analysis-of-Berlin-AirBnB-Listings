@@ -1,5 +1,4 @@
 -- this dataset is large, increase the connction timout to load it
--- 		almost half of the timeslots don't have a listing in the table!?
 --      int was not big enough for the listing_id, BIGINT UNSIGNED used instead
 
 
@@ -26,4 +25,3 @@ SET GLOBAL connect_timeout = 10;
 SET GLOBAL net_read_timeout = 30;
 SET GLOBAL mysqlx_read_timeout = 30;
 SET GLOBAL mysqlx_connect_timeout = 30;
-
