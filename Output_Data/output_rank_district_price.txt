@@ -1,0 +1,14 @@
+| district | average_cost | price_ranking |
+|---|---|---|
+| Mitte | 156 | 1 |
+| Pankow | 136 | 2 |
+| Charlottenburg-Wilm. | 131 | 3 |
+| Friedrichshain-Kreuzberg | 128 | 4 |
+| Tempelhof - Schöneberg | 127 | 5 |
+| Treptow - Köpenick | 124 | 6 |
+| Lichtenberg | 120 | 7 |
+| Spandau | 114 | 8 |
+| Neukölln | 112 | 9 |
+| Steglitz - Zehlendorf | 109 | 10 |
+| Reinickendorf | 109 | 11 |
+| Marzahn - Hellersdorf | 97 | 12 |

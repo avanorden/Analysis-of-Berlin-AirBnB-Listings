@@ -1,9 +1,14 @@
+
 -- rank months based on how many bookings it has
 
 USE airbnb_berlin;
 
 CREATE OR REPLACE VIEW bookings_by_month AS
-SELECT monthname(calendar_date) as booking_month, count(avalable) as bookings, RANK() OVER (ORDER BY count(avalable) DESC) as booking_ranking FROM listing_calendar 
+SELECT 
+	monthname(calendar_date) as booking_month, 
+    count(avalable) as bookings, 
+    RANK() OVER (ORDER BY count(avalable) DESC) as booking_ranking 
+FROM listing_calendar 
 WHERE avalable = FALSE 
 GROUP BY booking_month;
 
@@ -12,7 +17,12 @@ SELECT booking_month, bookings, booking_ranking FROM bookings_by_month;
 
 -- rank months for each district based on how many bookings it has
 CREATE OR REPLACE VIEW bookings_by_district AS 
-SELECT neighbourhood_group, monthname(calendar_date) as month, count(avalable) as bookings, RANK() OVER (PARTITION BY neighbourhood_group ORDER BY count(avalable) DESC) as district_booking_ranking FROM listing_calendar
+SELECT 
+	neighbourhood_group, 
+	monthname(calendar_date) as month, 
+    count(avalable) as bookings, 
+    RANK() OVER (PARTITION BY neighbourhood_group ORDER BY count(avalable) DESC) as district_booking_ranking 
+FROM listing_calendar
 JOIN listings on listing_id = listings.id
 WHERE avalable = FALSE
 GROUP BY neighbourhood_group, month

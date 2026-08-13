@@ -46,8 +46,6 @@ WHERE
         AND id = SOME (SELECT id FROM avalable_listings)
 ORDER BY price DESC;
 
-
-
 DROP TABLE avalable_listings;
 
 

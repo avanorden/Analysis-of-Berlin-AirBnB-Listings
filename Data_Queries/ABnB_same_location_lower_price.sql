@@ -10,6 +10,6 @@ SELECT avalable from listing_calendar WHERE listing_id = @listing_id AND calenda
 
 
 SELECT id, descriptive_name, price FROM listings WHERE
-													neighbourhood = (SELECT neighbourhood from listings WHERE id = @listing_id) 
-													AND price < (SELECT price from listings WHERE id = @listing_id) 
-													AND id = SOME (SELECT listing_id from listing_calendar WHERE calendar_date = @listing_day AND avalable = TRUE);
+neighbourhood = (SELECT neighbourhood from listings WHERE id = @listing_id) 
+AND price < (SELECT price from listings WHERE id = @listing_id) 
+AND id = SOME (SELECT listing_id from listing_calendar WHERE calendar_date = @listing_day AND avalable = TRUE);

@@ -16,5 +16,9 @@ The analysis is intended to help renters make more informed decisions on selecti
   * [[Location and Price Dashboard](https://public.tableau.com/app/profile/alexander.vanorden/viz/AirBNB_price_visualisationV2/HowLocationAffectsthePriceofAirBnBListings)]
     - Takes data from the SQL database and analyzes how price correlates to distance from the city center.
 
+## Project Wiki
+* The [[Wiki](https://github.com/avanorden/Analysis-of-Berlin-AirBnB-Listings/wiki)] contains aditional information about the MySQL code
+*Sample output is provided
+
 ### Data Source
 The data was sourced from inside AirBnB's 23 September, 2025 archive.

@@ -1,0 +1,286 @@
+| id | descriptive_name | neighbourhood | price | days | total_price |
+|---|---|---|---|---|---|
+| 1477047577783123029 | best place for ghost | Alexanderplatz | 8150 | 3 | 24450 |
+| 29022451 | Gorki Penthouse 2 | Brunnenstr. Süd | 1371 | 3 | 4113 |
+| 28432988 | Cozy private room in the heart of Berlin-Mitte | Brunnenstr. Süd | 943 | 3 | 2829 |
+| 1019770974237854955 | Wohnung für 1 Monat | Parkviertel | 600 | 3 | 1800 |
+| 902612850834088593 | Penthouse + 2 balconies & terrace | Brunnenstr. Nord | 538 | 3 | 1614 |
+| 1407223490428433001 | NIDO by PATIO | Moabit Ost | 511 | 3 | 1533 |
+| 28772056 | Kategorki 1 with Balcony | Brunnenstr. Süd | 487 | 3 | 1461 |
+| 1228268366150663636 | Stadtflucht Homes Loft 4.1.1 | Brunnenstr. Nord | 451 | 3 | 1353 |
+| 1211586128244299839 | 4 Rooms nearby Potsdamer Platz | Regierungsviertel | 441 | 3 | 1323 |
+| 1418801585846679224 | Apartment with 2 bedrooms at Potsdamer Platz | Tiergarten Süd | 436 | 3 | 1308 |
+| 45904829 | Numa \| 1-Bedroom Apartment w/ Sofabed & Terrace | Alexanderplatz | 433 | 3 | 1299 |
+| 1441309893835629592 | Generator Mitte - Junior Suite – City View | Alexanderplatz | 430 | 3 | 1290 |
+| 50998500 | 134m² Three-Bedroom Apartment w/ Balcony in Mitte | Brunnenstr. Süd | 419 | 3 | 1257 |
+| 569171754152794253 | Family room 6 people \| Citylight Hotel Berlin | Brunnenstr. Nord | 413 | 3 | 1239 |
+| 1081260507674313316 | Skyline Ausblick Tv Tower | Wedding Zentrum | 405 | 3 | 1215 |
+| 29022213 | Kategorki 2C | Alexanderplatz | 396 | 3 | 1188 |
+| 29021563 | Kategorki 2A | Brunnenstr. Süd | 396 | 3 | 1188 |
+| 29509865 | 3 Bedroom Apartment | Brunnenstr. Süd | 360 | 3 | 1080 |
+| 1303559224840924887 | Grand Central Mitte Apt. Museumsinsel/Berliner Dom | Regierungsviertel | 348 | 3 | 1044 |
+| 662252642803259249 | BIG CENTRAL BERLIN CITY MITTE 4RMS FLAT 1ALocation | Brunnenstr. Süd | 343 | 3 | 1029 |
+| 569170313259172077 | Quadruple room \| Citylight Hotel Berlin | Brunnenstr. Nord | 338 | 3 | 1014 |
+| 29022547 | Kategorki 3 Studio apartment | Brunnenstr. Süd | 328 | 3 | 984 |
+| 854259609751966037 | Bestlage am Brandenburger Tor Apartment 4 | Regierungsviertel | 323 | 3 | 969 |
+| 1167288311968188692 | time4staying 160sqm 5 BR Banksy apartment at Hbf | Moabit Ost | 318 | 3 | 954 |
+| 54035917 | BIG CENTRAL CITY 4RMS FLAT MITTE ROSENTHALER PLATZ | Brunnenstr. Süd | 313 | 3 | 939 |
+| 43824448 | Apartment with balcony | Regierungsviertel | 313 | 3 | 939 |
+| 29121547 | 2-Raum Apartment "City Nature", 51 qm | Brunnenstr. Süd | 309 | 3 | 927 |
+| 14956202 | Old Forge Loft Apartment | Moabit Ost | 309 | 3 | 927 |
+| 29121214 | 2-Raum Apartment "Bright Outlook", 49 qm | Brunnenstr. Süd | 301 | 3 | 903 |
+| 53304519 | fairAPART®4 room apartment in the heart of Berlin | Osloer Straße | 301 | 3 | 903 |
+| 685225880830164394 | Berlin Chausseestr \| Two-Bedroom Suite | Alexanderplatz | 300 | 3 | 900 |
+| 14335678 | Horse Stable Hayloft | Moabit Ost | 296 | 3 | 888 |
+| 1415169463040693546 | Nikolai Residence - Deluxe Family Room | Alexanderplatz | 291 | 3 | 873 |
+| 1440485527332469106 | Generator Mitte - Private 8-Bed Dorm Ensuite | Alexanderplatz | 282 | 3 | 846 |
+| 1406503358873925054 | Central Urban Party/co-working Loft | Alexanderplatz | 281 | 3 | 843 |
+| 24689832 | 2 Bedroom Apartment | Tiergarten Süd | 279 | 3 | 837 |
+| 1486822121181053059 | Superior Apartment für 4 am Brandenburger Tor | Regierungsviertel | 276 | 3 | 828 |
+| 569168743565117705 | Comfort double room \| Citylight Hotel Berlin | Brunnenstr. Nord | 271 | 3 | 813 |
+| 1381451560141680666 | Cozy Design Apartment A+ Location | Tiergarten Süd | 265 | 3 | 795 |
+| 1106462178448509114 | Central, sunny and luxurious | Brunnenstr. Süd | 261 | 3 | 783 |
+| 1273941 | apartment 3_penthouse-2 rooms - downtown - 75 sqm | Brunnenstr. Süd | 260 | 3 | 780 |
+| 1352184937732497586 | Family Studio for 4 Guests at Potsdamer Platz | Tiergarten Süd | 260 | 3 | 780 |
+| 937677163963420768 | Townhouse Loft Studio, Rosenthaler Pl, renoviert | Brunnenstr. Süd | 256 | 3 | 768 |
+| 935188267169193699 | Roof terrace at the Wintergarten – 86 m² | Tiergarten Süd | 255 | 3 | 765 |
+| 1441235509577676316 | Generator Mitte - Private 8-Bed Dorm Ensuite | Alexanderplatz | 254 | 3 | 762 |
+| 662129063586725752 | Cozy 4Rms Flat in City Center Berlin Mitte1ALocati | Alexanderplatz | 250 | 3 | 750 |
+| 1313567494667921377 | Modern Design 75 m² Apartment in Berlin Mitte | Tiergarten Süd | 249 | 3 | 747 |
+| 10483677 | Great central city apartment Mitte | Brunnenstr. Süd | 245 | 3 | 735 |
+| 854251028991888522 | Bestlage am Brandenburger Tor Apartment 3.4 | Regierungsviertel | 243 | 3 | 729 |
+| 957737492041138566 | Bestlage am Brandenburger Tor Apartment 3.3 | Regierungsviertel | 239 | 3 | 717 |
+| 1138339926130410087 | Spacious  Curt for 4 | Alexanderplatz | 235 | 3 | 705 |
+| 1085406679967497267 | Up to 7 People! Priv. Parking \| Step-Free Acc Loft | Brunnenstr. Nord | 232 | 3 | 696 |
+| 1399956391866335434 | Urban Loft \| 180° Balcony \| 2BR\| center \| 9 Guests | Alexanderplatz | 230 | 3 | 690 |
+| 9289390 | Premium Appartement - Berlin Center | Brunnenstr. Süd | 230 | 3 | 690 |
+| 569168063883091750 | Comfort double room for single use | Brunnenstr. Nord | 229 | 3 | 687 |
+| 1418792019451081469 | Apartment at Potsdamer Platz | Tiergarten Süd | 229 | 3 | 687 |
+| 648932373954864346 | BIRD NEST ABOVE BERLIN | Tiergarten Süd | 228 | 3 | 684 |
+| 41314005 | Dream View Berlin | Alexanderplatz | 226 | 3 | 678 |
+| 28533803 | SCHØNER BLICK (fjord hotel berlin) | Tiergarten Süd | 226 | 3 | 678 |
+| 1093554465663260250 | City Center Berlin Mitte 105 "URBAN FLATS Berlin" | Alexanderplatz | 225 | 3 | 675 |
+| 1327722452805691866 | Berlin hautnah! Designer-Apartment an der Spree | Alexanderplatz | 222 | 3 | 666 |
+| 693865935251112004 | Berlin Flower's \| 1Bedroom Duplex Suite XL+balcony | Alexanderplatz | 219 | 3 | 657 |
+| 1415169463384591839 | Nikolai Residence - Standard Family Room | Alexanderplatz | 219 | 3 | 657 |
+| 28509911 | CALMA L (CALMA Berlin Mitte) | Alexanderplatz | 216 | 3 | 648 |
+| 1339911607955003337 | Comfort Apartment  mit 2-Schlafzimmern (3-Zimmer) | Alexanderplatz | 215 | 3 | 645 |
+| 34294699 | Apartment with 2 open rooms | Alexanderplatz | 214 | 3 | 642 |
+| 828092897899521161 | Stadtflucht Homes Penthouse 5.2.2 | Brunnenstr. Nord | 214 | 3 | 642 |
+| 33668396 | BIG NEW COZY FLAT MITTE CENTER@ROSENTHALER PLATZ | Alexanderplatz | 211 | 3 | 633 |
+| 693864097037491333 | Berlin Flower's \| 1-Bedroom Duplex Suite L+balcony | Alexanderplatz | 211 | 3 | 633 |
+| 19944626 | Bright and elegant centrally located apartment | Alexanderplatz | 209 | 3 | 627 |
+| 1089675867485347136 | Up to 9 Guests! Priv. Parking \| Ground-Floor Loft | Brunnenstr. Nord | 209 | 3 | 627 |
+| 26051342 | Family Apartment \| BIG MAMA Berlin | Osloer Straße | 209 | 3 | 627 |
+| 1457101010140637112 | CALMA Triple M (CALMA Berlin Mitte) | Alexanderplatz | 207 | 3 | 621 |
+| 1344849481548213760 | Beautiful Bright Flat Near River | Moabit Ost | 206 | 3 | 618 |
+| 693862220904540813 | Berlin Flower's \| One-bedroom Suite XL | Alexanderplatz | 204 | 3 | 612 |
+| 1462257889143986108 | unique 125 sqm Studio | Alexanderplatz | 203 | 3 | 609 |
+| 51913751 | Gemütliche Wohnung in Berlin-Mitte zu vermieten. | Alexanderplatz | 200 | 3 | 600 |
+| 1273726314915598217 | Penthouse-Wohnung berlin Mitte | Brunnenstr. Süd | 200 | 3 | 600 |
+| 11267258 | GetInBerlin am Checkpoint Charlie | Regierungsviertel | 199 | 3 | 597 |
+| 28534680 | SCHØNES L (fjord hotel berlin) | Tiergarten Süd | 199 | 3 | 597 |
+| 1352039624689882643 | Studio for 2 at Potsdamer Platz | Tiergarten Süd | 199 | 3 | 597 |
+| 693941289687409048 | Berlin Muellerstr. \| Suite XL with sofa bed | Brunnenstr. Nord | 198 | 3 | 594 |
+| 863579088600371861 | Tempelhof, Altbau Charme, Erdgeschoss | Wedding Zentrum | 198 | 3 | 594 |
+| 1384761585748541651 | Design Apartment Berlin | Wedding Zentrum | 198 | 3 | 594 |
+| 30334384 | 6-bed room/shared bathroom nr.15 | Alexanderplatz | 197 | 3 | 591 |
+| 45475523 | Numa \| XL Studio with Kitchen & Balcony | Alexanderplatz | 194 | 3 | 582 |
+| 3242577 | Magnificent turn of century flat (legal) | Wedding Zentrum | 190 | 3 | 570 |
+| 50996738 | 62m² One-Bedroom Apartment with Balcony in Mitte | Brunnenstr. Süd | 188 | 3 | 564 |
+| 27011856 | Double Room \| BIG MAMA Berlin | Osloer Straße | 188 | 3 | 564 |
+| 12375222 | Refugium am Engelbecken | Alexanderplatz | 185 | 3 | 555 |
+| 28510393 | CALMA M (CALMA Berlin Mitte) | Alexanderplatz | 185 | 3 | 555 |
+| 1187852331224100834 | Holiday 33 Apartment N – 3 Rooms & 2 Bathrooms | Moabit West | 185 | 3 | 555 |
+| 970903636669265872 | Berlin-Mitte Appartment | Regierungsviertel | 184 | 3 | 552 |
+| 28535346 | SCHØNES M (fjord hotel berlin) | Tiergarten Süd | 184 | 3 | 552 |
+| 1379759790076809671 | AR City Hotel Berlin-6pax room | Osloer Straße | 181 | 3 | 543 |
+| 24689619 | 1 Bedroom Apartment | Tiergarten Süd | 181 | 3 | 543 |
+| 45475252 | Numa \| Large Studio w/ Kitchen in Berlin Mitte | Alexanderplatz | 180 | 3 | 540 |
+| 1101617227673514538 | Mitte: new flat/en suite bath | Alexanderplatz | 180 | 3 | 540 |
+| 29509859 | Studio Apartment | Alexanderplatz | 178 | 3 | 534 |
+| 28510664 | CALMA S (CALMA Berlin Mitte) | Alexanderplatz | 176 | 3 | 528 |
+| 1440502476826786100 | Generator Mitte - Family Room for 4 - Ensuite | Alexanderplatz | 176 | 3 | 528 |
+| 1115843453878616278 | Central City 3/3 | Alexanderplatz | 175 | 3 | 525 |
+| 1415168972920776878 | Nikolai Residence - Triple Room | Alexanderplatz | 175 | 3 | 525 |
+| 28535860 | SCHØNES S (fjord hotel berlin) | Tiergarten Süd | 175 | 3 | 525 |
+| 28510951 | CALMA XS (CALMA Berlin Mitte) | Alexanderplatz | 171 | 3 | 513 |
+| 1425566213914240917 | Studio in zentraler Lage | Alexanderplatz | 171 | 3 | 513 |
+| 1381436987487866357 | Exclusive Oasis \| Berlin City | Tiergarten Süd | 171 | 3 | 513 |
+| 15153401 | 6-Bedroom mixed, Ensuite , TV No. 10 | Alexanderplatz | 170 | 3 | 510 |
+| 982258947782075499 | Espacioso departamento en Berlín | Osloer Straße | 169 | 3 | 507 |
+| 1098549072889880800 | 2 rooms at the river bank in the heart of old city | Alexanderplatz | 168 | 3 | 504 |
+| 1345624920002813076 | Numa \| Large Room with Bathtub in Berlin Mitte | Alexanderplatz | 165 | 3 | 495 |
+| 1415168971014587597 | Nikolai Residence - Double Room | Alexanderplatz | 165 | 3 | 495 |
+| 30917638 | 4-Bedroom mixed, Ensuite , TV No. 13 | Alexanderplatz | 163 | 3 | 489 |
+| 888298691845183664 | Studio&Kitchen with Central spot in Mitte, Berlin | Alexanderplatz | 163 | 3 | 489 |
+| 1211496216732706035 | Numa \| Large Studio w/ Kitchenette & Extra Bed | Alexanderplatz | 163 | 3 | 489 |
+| 1244746829166950069 | Great apartment | Parkviertel | 163 | 3 | 489 |
+| 17220997 | Nettes City-Apartment 8 am Checkpoint Charlie | Regierungsviertel | 163 | 3 | 489 |
+| 29696183 | 6-bed room/shared bathroom nr.13 | Alexanderplatz | 162 | 3 | 486 |
+| 53391764 | Catalonia Berlin Mitte 4* - Double room | Alexanderplatz | 162 | 3 | 486 |
+| 777464227577518716 | Wohnen im Herzen von Berlin | Brunnenstr. Süd | 160 | 3 | 480 |
+| 866625733095743088 | Wohnung im Herzen Berlins | Regierungsviertel | 160 | 3 | 480 |
+| 15363472 | Single Room Ensuite / TV | Alexanderplatz | 159 | 3 | 477 |
+| 1441284292210683640 | Generator Mitte - Family Room for 4 - Ensuite | Alexanderplatz | 159 | 3 | 477 |
+| 685224054858608898 | Berlin Chausseestr \| Suite with Sofa Bed | Alexanderplatz | 158 | 3 | 474 |
+| 37737152 | Airy Berlin Loft with 90's vintage furniture | Alexanderplatz | 157 | 3 | 471 |
+| 1345617742189913012 | Numa \| Large, accessible Room in Berlin Mitte | Alexanderplatz | 157 | 3 | 471 |
+| 1345611651216239245 | Numa \| Large Room in Berlin Mitte | Alexanderplatz | 156 | 3 | 468 |
+| 1447744576132998818 | Loft-style Apartment Mitte | Brunnenstr. Süd | 156 | 3 | 468 |
+| 17134678 | Tolles-City-Apartment 7 am Checkpoint Charlie | Regierungsviertel | 156 | 3 | 468 |
+| 1211494413366492901 | Numa \| Large Room w/ Extra Bed near Alexanderplatz | Alexanderplatz | 155 | 3 | 465 |
+| 693935596472501414 | Berlin Muellerstr. \| Suite L with sofa bed | Brunnenstr. Nord | 155 | 3 | 465 |
+| 12047079 | Downtown Apartments Torstr I, 1BR up to 4ppl | Brunnenstr. Süd | 155 | 3 | 465 |
+| 852627194384388045 | Moabit-zentrale und helle 3-Zimmer-Wohnung | Moabit West | 155 | 3 | 465 |
+| 1377080971947056806 | Idyllisches Apartment am Wasser - Ruhig & Zentral | Moabit West | 153 | 3 | 459 |
+| 7526348 | LUX! New Modern Central Quiet Flat in Berlin Mitte | Brunnenstr. Süd | 152 | 3 | 456 |
+| 11450419 | East Side Apartment | Brunnenstr. Süd | 151 | 3 | 453 |
+| 1211495325815600084 | Numa \| M Studio w/ Kitchenette near Alexanderplatz | Alexanderplatz | 149 | 3 | 447 |
+| 1026113473486876598 | Central Location Mitte | Wedding Zentrum | 149 | 3 | 447 |
+| 9892924 | 4-Bedroom mixed, Ensuite , TV No. 11 | Alexanderplatz | 148 | 3 | 444 |
+| 1379757744130388016 | AR City Hotel Berlin-Family room | Osloer Straße | 148 | 3 | 444 |
+| 8564167 | Spacious, bright room in the heart of Berlin | Alexanderplatz | 147 | 3 | 441 |
+| 51950246 | Moabit - Ruhige Wohnung für große Gruppen | Moabit Ost | 147 | 3 | 441 |
+| 1300039926473509773 | Suite Apartment | Alexanderplatz | 146 | 3 | 438 |
+| 895682168364278604 | Frisch sanierter Designer Altbau | Brunnenstr. Süd | 145 | 3 | 435 |
+| 831127713135648319 | Cosy apart in Moabit for 6, WiFi | Moabit Ost | 145 | 3 | 435 |
+| 1402013507683519132 | Pretty and colorful apartment in Wedding. | Wedding Zentrum | 144 | 3 | 432 |
+| 1102079318028329110 | Central City 1/3 | Alexanderplatz | 143 | 3 | 429 |
+| 888305568047565032 | Double Room with AC, Central spot in Mitte, Berlin | Alexanderplatz | 140 | 3 | 420 |
+| 1216475275816606955 | Apartmenthaus Berlin Mitte - Superior Apartment | Alexanderplatz | 140 | 3 | 420 |
+| 1009947815168772656 | Nah dem Hauptbahnhof | Moabit Ost | 140 | 3 | 420 |
+| 962068583212950028 | Dachgeschoss-Zimmer ruhig & zentral mit Terrasse | Moabit West | 140 | 3 | 420 |
+| 245827 | 2-bedroom apartment Mitte | Regierungsviertel | 140 | 3 | 420 |
+| 16167936 | 1 Charming 2 Room Apartment in Berlin Mitte | Alexanderplatz | 138 | 3 | 414 |
+| 1290636737797506256 | Stylish 1 Bedroom w/Balcony by Berlin Wall, Mitte | Brunnenstr. Süd | 138 | 3 | 414 |
+| 1130502154822475390 | Comfort Double Bedroom | Alexanderplatz | 137 | 3 | 411 |
+| 29891720 | Double room shower/WC/TV/kitchen No.Nr.3 | Alexanderplatz | 136 | 3 | 408 |
+| 1211490901429811494 | Numa \| Medium Room near Alexanderplatz | Alexanderplatz | 136 | 3 | 408 |
+| 1216465253515023473 | Apartmenthaus Berlin Mitte - Superior Apartment | Alexanderplatz | 136 | 3 | 408 |
+| 8057647 | Stylish Apt w/ Balcony Near Rosenthaler Platz | Alexanderplatz | 135 | 3 | 405 |
+| 1268942209716845570 | Loft über den Dächern Berlins | Alexanderplatz | 135 | 3 | 405 |
+| 1201312259851352017 | Stilvoll im Herzen Berlins | Brunnenstr. Süd | 135 | 3 | 405 |
+| 1003550014251405426 | J8 - Room22 Studioapartment Mitte Mitte | Alexanderplatz | 133 | 3 | 399 |
+| 1214964680172530901 | Apartmenthaus Berlin Mitte - Superior Studio | Alexanderplatz | 133 | 3 | 399 |
+| 1359377017583012847 | Berlin Muellerstr. \| Suite M | Brunnenstr. Nord | 133 | 3 | 399 |
+| 6098049 | Double Room Ensuite / TV  No.2 | Alexanderplatz | 132 | 3 | 396 |
+| 825308022126453828 | Room in vibrant Berlin Mitte | Brunnenstr. Süd | 129 | 3 | 387 |
+| 893178043576083829 | Schöne ruhige Wohnung in Berlin | Parkviertel | 129 | 3 | 387 |
+| 11712065 | Parkview Sepia | Brunnenstr. Süd | 126 | 3 | 378 |
+| 10736361 | Double Room Ensuite /  kitchen No.2 | Alexanderplatz | 124 | 3 | 372 |
+| 1143306076073478989 | HEART OF MITTE at Weinbergsweg | Brunnenstr. Süd | 124 | 3 | 372 |
+| 30883941 | Ruhiges CityApartment 6 for Two | Regierungsviertel | 124 | 3 | 372 |
+| 6858383 | King-size capsule shared with additional capsules | Alexanderplatz | 123 | 3 | 369 |
+| 1379738149541462062 | AR City Hotel Berlin-Double room | Osloer Straße | 122 | 3 | 366 |
+| 47215807 | Double Hotel Gat Point Charlie Berlin | Regierungsviertel | 122 | 3 | 366 |
+| 927468711826067742 | MLM 14: designer loft 12 mins Hauptbahnhof | Alexanderplatz | 121 | 3 | 363 |
+| 628380269015991062 | Top Stay in Berlin Mitte | Regierungsviertel | 121 | 3 | 363 |
+| 50927063 | Zweibettzimmer 3, Apple City Hotel | Moabit West | 120 | 3 | 360 |
+| 1452021779514114724 | Zentral, ruhig, Blick ins Grüne - bei der Spree | Moabit West | 119 | 3 | 357 |
+| 53539095 | Spacious 2-Bedroom Apartment Digital Check-In | Parkviertel | 119 | 3 | 357 |
+| 43522753 | Stylish New Cube Loft II by Berlin-Wall-Apartments | Brunnenstr. Nord | 117 | 3 | 351 |
+| 37206357 | operation BANGA | Alexanderplatz | 116 | 3 | 348 |
+| 737353278829680936 | Central City  7 - apartment with balcony | Alexanderplatz | 116 | 3 | 348 |
+| 36651479 | Bauhaus inspired penthouse studio | Brunnenstr. Süd | 116 | 3 | 348 |
+| 1434873013652286023 | Modern Stay Moabit | Moabit West | 116 | 3 | 348 |
+| 1457050419117257436 | Modern Stay Unique Berlin | Moabit West | 116 | 3 | 348 |
+| 1178278262649886437 | Elegantes Apartment Mitte - Mauerpark | Brunnenstr. Nord | 115 | 3 | 345 |
+| 1300785286656167153 | Great 2-room apartment in Mitte | Parkviertel | 114 | 3 | 342 |
+| 1084512 | Charming Studio Sprengelkiez Berlin | Wedding Zentrum | 112 | 3 | 336 |
+| 737388529164826914 | Central City 8 - Apartment with balcony | Alexanderplatz | 111 | 3 | 333 |
+| 1294024209506655692 | HolidayHome Apartments \| Luxery Private Room | Brunnenstr. Nord | 111 | 3 | 333 |
+| 1292325214470147373 | Gip | Brunnenstr. Süd | 111 | 3 | 333 |
+| 21458398 | Little CityApartment 5or3 for Two | Regierungsviertel | 111 | 3 | 333 |
+| 972928912143698998 | Classic/great location/cute space/sxf | Wedding Zentrum | 111 | 3 | 333 |
+| 736656859480547864 | Central City  5 - Apartment with balcony | Alexanderplatz | 110 | 3 | 330 |
+| 1476692933815988813 | Minimalistic Apartment in Mitte | Alexanderplatz | 110 | 3 | 330 |
+| 52553127 | Central and calm and absolutely private | Moabit West | 109 | 3 | 327 |
+| 1399186831579460321 | Paradiesische Oase in bester Lage Berlins | Brunnenstr. Süd | 106 | 3 | 318 |
+| 50686128 | Berlin Mitte Studio | Alexanderplatz | 105 | 3 | 315 |
+| 896912900582308071 | Schönes ruhiges Zimmer | Brunnenstr. Süd | 105 | 3 | 315 |
+| 45246686 | Doppelzimmer, Apple City Hotel | Moabit West | 105 | 3 | 315 |
+| 18863113 | primeflats - Apartment Togo Berlin-Wedding | Parkviertel | 105 | 3 | 315 |
+| 45374751 | Doppelzimmer 2, Apple City Hotel | Moabit West | 103 | 3 | 309 |
+| 45681016 | Zweibettzimmer, Apple City Hotel | Moabit West | 103 | 3 | 309 |
+| 50927054 | Zweibettzimmer, Apple City Hotel | Moabit West | 103 | 3 | 309 |
+| 1359930462749723599 | Amazing Apartment Berlin Mitte | Moabit West | 102 | 3 | 306 |
+| 1437554313983911035 | Ruhige Wohnung in Berlin Mitte | Brunnenstr. Süd | 100 | 3 | 300 |
+| 610165981448452535 | Une jolie chambre et complete dans un Appartement | Osloer Straße | 100 | 3 | 300 |
+| 8094511 | bed in a 5-bed mixed dorm , Shared bathroom | Alexanderplatz | 99 | 3 | 297 |
+| 1466764994420380871 | Heavenly apartment in Berlin | Osloer Straße | 99 | 3 | 297 |
+| 1500817310329779290 | Gemütliches Apartment + Netflix + Balkon | Osloer Straße | 99 | 3 | 297 |
+| 1374803290397255608 | Flattering Suites 32 | Wedding Zentrum | 99 | 3 | 297 |
+| 20965750 | Studio 4 *** max. 2 Gäste | Moabit Ost | 95 | 3 | 285 |
+| 691906951861326432 | Wunderschönes Zimmer in großer Neubauwohnung | Osloer Straße | 95 | 3 | 285 |
+| 26594082 | 750 SFT Lovely Apartment in Central Berlin Mitte | Wedding Zentrum | 95 | 3 | 285 |
+| 44272628 | Zweibettzimmer, Apple City Hotel in Berlin | Moabit West | 93 | 3 | 279 |
+| 45375004 | Einzelzimmer, Apple City Hotel | Moabit West | 92 | 3 | 276 |
+| 50713075 | Einzelzimmer 2, Apple City Hotel | Moabit West | 92 | 3 | 276 |
+| 1429820885752412981 | Modern & Bright Flat in Mitte | Brunnenstr. Süd | 91 | 3 | 273 |
+| 989920664737468976 | Bello y cómodo cuarto en Berlín | Osloer Straße | 91 | 3 | 273 |
+| 878927610471054839 | Flattering Berlin 5-14 | Wedding Zentrum | 90 | 3 | 270 |
+| 1314330585001384931 | Berliner City Wohnung in Mitte | Wedding Zentrum | 90 | 3 | 270 |
+| 23674729 | One room apartment in Mitte | Brunnenstr. Süd | 89 | 3 | 267 |
+| 1199707505762903993 | Zimmer mit Privatbad | Wedding Zentrum | 87 | 3 | 261 |
+| 1169215850289461732 | Jewel in urban garden;  shepherdess hut+shower hut | Brunnenstr. Nord | 85 | 3 | 255 |
+| 643432677849199843 | Cosy Room in center of Berlin | Moabit West | 85 | 3 | 255 |
+| 1282280560306390644 | Berlin City 105 | Moabit West | 85 | 3 | 255 |
+| 1376348748790549852 | Apartment Nolle 2 | Tiergarten Süd | 84 | 3 | 252 |
+| 1376356410353693375 | Apartment Nolle 3 | Tiergarten Süd | 84 | 3 | 252 |
+| 54351855 | Twin Room with shared bathroom | Brunnenstr. Süd | 83 | 3 | 249 |
+| 589827311095896853 | Berlin Center - Room in shared flat | Brunnenstr. Süd | 83 | 3 | 249 |
+| 3717751 | Unique Gardenroom \| Berlin Mitte \| with garden | Brunnenstr. Süd | 81 | 3 | 243 |
+| 1447700264305408621 | primeflats - Apartment Genter 1 Berlin-Wedding | Parkviertel | 81 | 3 | 243 |
+| 1362195062794223095 | Zentral, design 3 Zimmer in Parknähe Tiergarten | Moabit Ost | 80 | 3 | 240 |
+| 2201228 | Cosy Flat around Rosenthaler Platz | Alexanderplatz | 79 | 3 | 237 |
+| 1565047 | King-Size Capsule shared with additional capsules | Alexanderplatz | 76 | 3 | 228 |
+| 2328948 | APARTMENT - Berlin City Studio | Moabit Ost | 72 | 3 | 216 |
+| 1139770837673152303 | 1 room in 3-room shared apartment | Parkviertel | 72 | 3 | 216 |
+| 6550264 | Cozy & authentic: private room near Alexanderplatz | Alexanderplatz | 69 | 3 | 207 |
+| 1344851062340666390 | Room close to KitKat Club mit Blick auf TV Tower | Alexanderplatz | 68 | 3 | 204 |
+| 1126877399823168031 | Spacious Room in near Mitte | Moabit West | 68 | 3 | 204 |
+| 1080550983419728052 | Berlin City 101 | Moabit West | 67 | 3 | 201 |
+| 1176178226335596939 | Berlin City 103 | Moabit West | 67 | 3 | 201 |
+| 1203970282600359877 | Berlin City 102 | Moabit West | 67 | 3 | 201 |
+| 43719623 | Mari | Alexanderplatz | 65 | 3 | 195 |
+| 51462475 | Stylish, calm room in Central Berlin | Wedding Zentrum | 64 | 3 | 192 |
+| 1384845332221448997 | WG Zimmer 28qm im Wedding | Brunnenstr. Nord | 63 | 3 | 189 |
+| 1512500420521375948 | Bright & Cozy 45 sqm Studio near Bellevue | Moabit Ost | 63 | 3 | 189 |
+| 893360851624346547 | U-Bahn vor der Tür \| 12 Min Hauptbahnhof | Moabit West | 63 | 3 | 189 |
+| 50825618 | Großes Zimmer zu vermieten | Parkviertel | 59 | 3 | 177 |
+| 807131975159748467 | Zimmer in Berlin– gute Anbindung & ruhige Umgebung | Parkviertel | 59 | 3 | 177 |
+| 944834674862719502 | Gemütliches Zimmer mit aufklabaren Bett | Moabit West | 57 | 3 | 171 |
+| 1440504645720154477 | Genrator Mitte - Pod | Alexanderplatz | 56 | 3 | 168 |
+| 53567975 | Gemütliches Dachgeschoss-Zimmer mit Bad und Flur | Parkviertel | 55 | 3 | 165 |
+| 830575419710014519 | Quite room to sleep in busy city | Wedding Zentrum | 54 | 3 | 162 |
+| 1453608835059077187 | Cosy Room @ Alexanderplatz | Alexanderplatz | 53 | 3 | 159 |
+| 1130292978164168626 | Berlin Mitte | Parkviertel | 53 | 3 | 159 |
+| 1478850678768798610 | Gemütliches Mini-Mädchen-Zimmer | Moabit Ost | 52 | 3 | 156 |
+| 938695561371451782 | Großes 20m² Zimmer zur Miete | Moabit West | 52 | 3 | 156 |
+| 1109989808625411298 | Großes Zimmer mit Arbeitsplatz in Berlin-Mitte | Moabit West | 52 | 3 | 156 |
+| 1441290412653108181 | Generator Mitte - Pod | Alexanderplatz | 51 | 3 | 153 |
+| 1226543545358921927 | Herzlich Willkommen | Parkviertel | 51 | 3 | 153 |
+| 9536240 | bed in a 6-Bed mixed dorm ,Shared Bathroom 5 | Alexanderplatz | 48 | 3 | 144 |
+| 846755641670590656 | 22 qm Zimmer in Altbauwohnung | Osloer Straße | 46 | 3 | 138 |
+| 1441204402972029747 | Generator Mitte Bed in 4 Bed Dorm Ensuite | Alexanderplatz | 44 | 3 | 132 |
+| 6098609 | bed in a 4-Bedroom mixed, Ensuite  No. 2 | Alexanderplatz | 43 | 3 | 129 |
+| 849732709353643211 | buena comunicación con el centro | Osloer Straße | 43 | 3 | 129 |
+| 1320131827647030801 | 1room flat shared with Host in central Berlin | Moabit West | 41 | 3 | 123 |
+| 1096289801290008731 | Top Location <-> Furnished Room in Heart of Berlin | Parkviertel | 41 | 3 | 123 |
+| 35816059 | Bed in 6 Bed Dorm Ensuite | Alexanderplatz | 40 | 3 | 120 |
+| 1128110158947854731 | Bed in 6 Bed Female Dorm | Alexanderplatz | 40 | 3 | 120 |
+| 1415025972886322074 | Bett im 4er mit DU/ WC 3 | Alexanderplatz | 40 | 3 | 120 |
+| 1441261673248458773 | Generator Mitte Bed in 4 Bed Dorm Ensuite | Alexanderplatz | 39 | 3 | 117 |
+| 11286561 | bed in a 6-Bedroom mixed, Ensuite  No. 4 | Alexanderplatz | 38 | 3 | 114 |
+| 1426609329108129539 | Bett im 6er , Gemeinschaftsbad 6 | Alexanderplatz | 38 | 3 | 114 |
+| 1440487175664659781 | Generator Mitte Bed in 6 Bed Room - Ensuite | Alexanderplatz | 38 | 3 | 114 |
+| 1565012 | bed in a 6-Bedroom mixed, Ensuite No. 1 | Alexanderplatz | 37 | 3 | 111 |
+| 36340336 | Generator Mitte - Bed in 8 Bed Dorm Ensuite | Alexanderplatz | 36 | 3 | 108 |
+| 1127946208576008671 | Bed in 8-Bed Dorm | Alexanderplatz | 36 | 3 | 108 |
+| 25438611 | bed in a 6-Bedroom mixed, Ensuite   No. 5 | Alexanderplatz | 34 | 3 | 102 |
+| 1441241219413660444 | Generator Mitte Bed in 6 Bed Room - Ensuite | Alexanderplatz | 34 | 3 | 102 |
+| 1441227611761269880 | Generator Mitte - Bed in 8 Bed Dorm Ensuite | Alexanderplatz | 32 | 3 | 96 |
+| 1447631692937562533 | Bett im 6er, Gemeinschaftsbad 7 | Alexanderplatz | 32 | 3 | 96 |
+| 6110762 | bed in a 6-Bed mixed dorm ,Shared Bathroom 4 | Alexanderplatz | 31 | 3 | 93 |
+| 6111076 | bed in a 6-Bed mixed dorm ,Shared Bathroom 1 | Alexanderplatz | 31 | 3 | 93 |
